@@ -1,4 +1,4 @@
-import swapElements from "./swapElements.js";
+import swapElements from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/functions/swapElements.js";
 
 let draggedElement;
 
