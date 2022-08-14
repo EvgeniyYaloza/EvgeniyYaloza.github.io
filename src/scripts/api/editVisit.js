@@ -1,5 +1,5 @@
-import instance from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/api/instance.js";
-import Card from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/classes/card.js";
+import instance from "EvgeniyYaloza.github.io/src/scripts/api/instance.js";
+import Card from "EvgeniyYaloza.github.io/src/scripts/classes/card.js";
 
 const editVisit = async (visit, id, card) => {
     const { body } = visit;
