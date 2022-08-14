@@ -1,5 +1,5 @@
-import debounce from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/utils/debounce.js"
-import filtrationCards from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/functions/filtrationCards.js"
+import debounce from "EvgeniyYaloza.github.io/src/scripts/utils/debounce.js"
+import filtrationCards from "EvgeniyYaloza.github.io/src/scripts/functions/filtrationCards.js"
 
 export default class Filter {
     constructor(formContainer) {
