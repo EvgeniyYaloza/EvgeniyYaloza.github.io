@@ -1,4 +1,4 @@
-import Card from "EvgeniyYaloza.github.io/src/scripts/classes/card.js";
+import Card from "https://evgeniyyaloza.github.io/src/scripts/classes/card.js";
 
 const showCards = async (cardsArray) => {
     const cardsContainer = document.querySelector('.container-cards');

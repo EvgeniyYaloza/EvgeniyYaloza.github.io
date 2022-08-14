@@ -1,6 +1,6 @@
-import Filter from "EvgeniyYaloza.github.io/src/scripts/classes/Filter.js";
-import getCards from "EvgeniyYaloza.github.io/src/scripts/api/getCards.js";
-import showCards from "EvgeniyYaloza.github.io/src/scripts/functions/showCards.js";
+import Filter from "https://evgeniyyaloza.github.io/src/scripts/classes/Filter.js";
+import getCards from "https://evgeniyyaloza.github.io/src/scripts/api/getCards.js";
+import showCards from "https://evgeniyyaloza.github.io/src/scripts/functions/showCards.js";
 import {
     handleDragEnd,
     handleDragEnter,
@@ -8,9 +8,9 @@ import {
     handleDragOver,
     handleDragStart,
     handleDrop
-} from "EvgeniyYaloza.github.io/src/scripts/functions/handleDrags.js";
-import VisitModal from "EvgeniyYaloza.github.io/src/scripts/classes/VisitModal.js";
-import createVisit from "EvgeniyYaloza.github.io/src/scripts/api/createVisit.js";
+} from "https://evgeniyyaloza.github.io/src/scripts/functions/handleDrags.js";
+import VisitModal from "https://evgeniyyaloza.github.io/src/scripts/classes/VisitModal.js";
+import createVisit from "https://evgeniyyaloza.github.io/src/scripts/api/createVisit.js";
 
 export const renderMainContent = () => {
     const formContainer = document.querySelector('.container-filter');

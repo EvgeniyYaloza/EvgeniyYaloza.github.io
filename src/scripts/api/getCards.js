@@ -1,4 +1,4 @@
-import instance from "EvgeniyYaloza.github.io/src/scripts/api/instance.js"
+import instance from "https://evgeniyyaloza.github.io/src/scripts/api/instance.js"
 
 const getCards = async () => {
     try {

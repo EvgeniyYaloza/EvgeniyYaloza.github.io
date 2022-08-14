@@ -1,4 +1,4 @@
-import Modal from "EvgeniyYaloza.github.io/src/scripts/classes/Modal.js";
+import Modal from "https://evgeniyyaloza.github.io/src/scripts/classes/Modal.js";
 
 export default class VisitModal extends Modal {
 	constructor(submitHandler, flag, cardObject, card) {

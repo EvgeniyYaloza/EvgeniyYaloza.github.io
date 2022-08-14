@@ -1,6 +1,6 @@
-import Modal from "EvgeniyYaloza.github.io/src/scripts/classes/Modal.js";
-import login from "EvgeniyYaloza.github.io/src/scripts/api/login.js";
-import {toggleBtn} from "EvgeniyYaloza.github.io/src/scripts/functions/toggleBtn.js";
+import Modal from "https://evgeniyyaloza.github.io/src/scripts/classes/Modal.js";
+import login from "https://evgeniyyaloza.github.io/src/scripts/api/login.js";
+import {toggleBtn} from "https://evgeniyyaloza.github.io/src/scripts/functions/toggleBtn.js";
 
 export default class LoginModal extends Modal {
     constructor() {

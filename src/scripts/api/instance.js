@@ -1,4 +1,4 @@
-import {getCookie} from "EvgeniyYaloza.github.io/src/scripts/utils/cookiehelpers.js";
+import {getCookie} from "https://evgeniyyaloza.github.io/src/scripts/utils/cookiehelpers.js";
 
 
 

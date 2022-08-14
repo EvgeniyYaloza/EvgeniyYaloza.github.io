@@ -1,6 +1,6 @@
-import deleteCards from "EvgeniyYaloza.github.io/src/scripts/api/deleteCards.js";
-import VisitModal from "EvgeniyYaloza.github.io/src/scripts/classes/VisitModal.js";
-import editVisit from "EvgeniyYaloza.github.io/src/scripts/api/editVisit.js";
+import deleteCards from "https://evgeniyyaloza.github.io/src/scripts/api/deleteCards.js";
+import VisitModal from "https://evgeniyyaloza.github.io/src/scripts/classes/VisitModal.js";
+import editVisit from "https://evgeniyyaloza.github.io/src/scripts/api/editVisit.js";
 
 export default class Card {
 	constructor({ fullName, doctor, status, title, description, urgency, id, cardiovascularDiseases, bloodPressure, bodyMassIndex, age, lastVisit }) {

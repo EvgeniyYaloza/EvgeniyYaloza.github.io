@@ -1,5 +1,5 @@
-import showCards from 'EvgeniyYaloza.github.io/src/scripts/functions/showCards.js';
-import getCards from "EvgeniyYaloza.github.io/src/scripts/api/getCards.js";
+import showCards from 'https://evgeniyyaloza.github.io/src/scripts/functions/showCards.js';
+import getCards from "https://evgeniyyaloza.github.io/src/scripts/api/getCards.js";
 
 const filtrationCards = async ({ target }, flag, urgencyInput, statusInput, purposeInput) => {
 
