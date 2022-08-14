@@ -1,5 +1,5 @@
-import {setCookie} from "../utils/cookiehelpers.js";
-import instance from "./instance.js"
+import {setCookie} from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/utils/cookiehelpers.js";
+import instance from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/api/instance.js"
 
 const login = async (email, password) => {
     try {
