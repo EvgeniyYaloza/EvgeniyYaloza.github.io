@@ -1,4 +1,4 @@
-import {renderMainContent} from "./renderMainContent.js";
+import {renderMainContent} from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/functions/renderMainContent.js";
 
 
 export function toggleBtn(){
