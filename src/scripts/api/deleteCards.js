@@ -1,4 +1,4 @@
-import instance from "./instance.js"
+import instance from "https://github.com/EvgeniyYaloza/EvgeniyYaloza.github.io/blob/main/src/scripts/api/instance.js";
 
 const deleteCards = async (id) => {
     try {
